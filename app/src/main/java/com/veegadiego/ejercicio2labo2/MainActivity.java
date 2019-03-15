@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                         mundo2.setImageResource(R.drawable.lapiz);
                         break;
                     case 3:
-                        mundo3.setImageResource(R.drawable.google);
+                        mundo2.setImageResource(R.drawable.google);
                         break;
                 }
             }
