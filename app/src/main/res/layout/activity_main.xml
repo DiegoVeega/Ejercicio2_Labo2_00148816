@@ -15,10 +15,23 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:id="@+id/goo1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src=""/>
+            android:src="@drawable/google"/>
+        <ImageView
+            android:id="@+id/lapiz1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/lapiz"/>
+        <ImageView
+            android:id="@+id/mundo1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/mundo"/>
 
     </LinearLayout>
 
@@ -29,10 +42,23 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:id="@+id/mundo2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src=""/>
+            android:src="@drawable/mundo"/>
+        <ImageView
+            android:id="@+id/goo2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/google"/>
+        <ImageView
+            android:id="@+id/lapiz2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/lapiz"/>
 
     </LinearLayout>
 
@@ -43,10 +69,23 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:id="@+id/lapiz3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src=""/>
+            android:src="@drawable/lapiz"/>
+        <ImageView
+            android:id="@+id/mundo3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/mundo"/>
+        <ImageView
+            android:id="@+id/goo3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/google"/>
 
     </LinearLayout>
 
